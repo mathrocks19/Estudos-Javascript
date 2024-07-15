@@ -19,4 +19,3 @@ const nomeFuncArrowHoisting = () =>{
 console.log(nomeFuncArrowHoisting());
 
 
-const 
